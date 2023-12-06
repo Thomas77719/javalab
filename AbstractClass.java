@@ -7,6 +7,7 @@
                  one of the class- es contains only the method
                  numberOfSides( ) that shows the number of sides in
                  the given geometrical structures. 
+                 
  * author      : Thomas varghese
  * version      : 1.0
  * Date        : 27/10/2023
